@@ -903,12 +903,12 @@ files = [
 
 [[package]]
 name = "streamlit"
-version = "0.56.0"
+version = "1.29.0"
 description = "Frontend library for machine learning engineers"
 optional = false
 python-versions = ">=3.5"
 files = [
-    {file = "streamlit-0.56.0-py2.py3-none-any.whl", hash = "sha256:d4ee0be9781776e97e53d16da968bc0131906a0140296de98a99c707aaa9b0dc"},
+    {file = "streamlit-1.29.0-py2.py3-none-any.whl", hash = "sha256:d4ee0be9781776e97e53d16da968bc0131906a0140296de98a99c707aaa9b0dc"},
 ]
 
 [package.dependencies]
